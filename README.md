@@ -2,9 +2,8 @@
 ini koding membuat game logika
 
 
-import java.util.Scanner;
-public class AI {
-
+	import java.util.Scanner;
+	public class AI {
    
     public static void main(String[] args) {
        
@@ -73,4 +72,4 @@ public class AI {
         }
     }
 
-}
+	}
